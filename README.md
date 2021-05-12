@@ -2,7 +2,7 @@
 
 This repository has the programs from the CS50 lectures and its Problem Sets for reference.
 
-Here is the table of contents
+Here is the table of contents-
 | Week | Number of Programs |
 |:------:|:------------------:|
 | 1 | 3 |
