@@ -6,7 +6,7 @@ Here is the table of contents-
 | Week | Number of Programs |
 |:------:|:------------------:|
 | 1 | 3 |
-| 2 | 3 |
+| 2 | 4 |
 
 Please note -
 
