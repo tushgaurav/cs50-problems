@@ -8,11 +8,11 @@ Here is the table of contents-
 | 1 | 3 |
 | 2 | 4 |
 | 3 | 5 |
-| 4 | 1 |
-
+| 4 | 3 |
+| 5 | 1 |
 Please note -
 
 - This repository is still being updated so new programs will be added soon.
-- Some programs can be missing or incorrect.
+- Some programs can be missing or incorrect, do your own research and check the code before submitting.
 
 ##### You can find the complete CS50 Course [here](https://cs50.harvard.edu/college/2021/spring/).
