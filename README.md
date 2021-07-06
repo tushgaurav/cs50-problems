@@ -1,15 +1,6 @@
-# CS50 Programs
+# My name is Tushar and This is CS50x Programs
 
 This repository has the programs from the CS50 lectures and its Problem Sets for reference.
-
-Here is the table of contents-
-| Week | Number of Programs |
-|:------:|:------------------:|
-| 1 | 3 |
-| 2 | 4 |
-| 3 | 5 |
-| 4 | 3 |
-| 5 | 1 |
 
 Please note -
 
