@@ -1,0 +1,45 @@
+.title
+{
+    padding-top: 1rem;
+    color: #f00000;
+    text-align: center;
+}
+
+.divider
+{
+    color: #70f800;
+    width: 75%;
+}
+
+#logo
+{
+    color: red;
+}
+
+ul
+{
+    list-style-type: none;
+
+}
+
+h3
+{
+    text-align: center;
+}
+
+h6
+{
+    text-align: center;
+}
+
+.exchange-sell
+{
+    text-align: center;
+    color: green;
+}
+
+.exchange-buy
+{
+    text-align: center;
+    color: red;
+}
